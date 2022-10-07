@@ -14,3 +14,8 @@ processFawaz.c
 producerFawaz.c
 sequentialFawaz.c
 sjfFawaz.c
+Fcfs diskSchedulingFawaz.c
+firstfitFawaz.c
+single level directoryFawaz.c
+twolevelFawaz.c
+scanDiskSchedulingFawaz.c
